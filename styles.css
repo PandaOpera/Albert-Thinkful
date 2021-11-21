@@ -6,8 +6,8 @@
 }
 
 .headshot {
- height: 80%;
- width: 80%;
+ height: 400%;
+ width: 40%;
  margin: auto;
  padding: 10px;
  display: block;
@@ -15,12 +15,10 @@
 
 h1 {
  text-align: center;
- color: red;
 }
 
 p {
  text-align: center;
  font-size: 120%;
- color: blue !important;
 }
  
