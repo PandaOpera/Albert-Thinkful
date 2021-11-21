@@ -2,6 +2,11 @@
   width: 80%;
   margin: auto;
   font-family: Trebuchet MS, Helvetica, sans-serif;
-  background-color: beige
+  background-color: beige;
 }
 
+img {
+ height: 20%;
+ margin: auto;
+ padding: 10px;
+}
